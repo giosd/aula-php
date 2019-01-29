@@ -1,4 +1,4 @@
-<$php
+<?php
 
 function ehPrimo($numero) {
 	for($i = 2; $i < $numero; $i++) {
@@ -19,5 +19,5 @@ return true;
 
 ehPrimo(10);
  
-$>
+?>
 

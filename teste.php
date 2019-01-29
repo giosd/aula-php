@@ -9,5 +9,5 @@
 }
 $matriz[$i] = $vetor;
 }
-pint_r ($matriz);
+print_r ($matriz);
 ?>
