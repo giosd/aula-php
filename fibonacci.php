@@ -9,6 +9,6 @@ echo "$vetor[1],";
 		echo "$vetor[$i],";
 
 }
-
+//php -S 0.0.0.0: -t exemplo-site
 
 ?>
